@@ -28,14 +28,16 @@ _the above images show examples of a correctly and an incorreclty classified art
 _this shows the most important words in the reviews the model found to differentiate the positive from the negative reviews_
 
 ## [Project 3: Wine Quality Predictor](https://github.com/CarolinaKra/WineQualityPredictor)
-* Developed a NN model that attempts to predict the sensory quality of wine based on its physicochemical properties.
+* Developed a Neural Network model that attempts to predict the sensory quality of wine based on its physicochemical properties.
 * This project followed the Universal Machine Learning Workflow.
 * I used a Design-of-Experiments (DoE) strategy to explore the influence of 3 hyperparameters: number of nodes per layer, number of layers and the type of activation function. The aim of the DoE was to maximise the exploratory space while minimising the number of experiments.
 * The final model achieved an accuracy of 67.62%, improving the initial 44.9% of the baseline model.
 * The confusion matrix showed the model confused the original class with a similar class (e.g. 6 with 7).
 * Improvements of the predictor model could be done by changing the model as a regressor or bin classes to form general classes (low, medium, high quality).
 
+![doe](https://github.com/CarolinaKra/Carolina_Portfolio/blob/main/docs/assets/DoE%20(1).png) 
 
+_this is the Design of Experiment strategy I used to find the optimal hyperparameters for the neural network arquitecture_
 
 
 
