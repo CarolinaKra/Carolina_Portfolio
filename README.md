@@ -8,8 +8,8 @@
 * The final model achieved an averaged accuracy of 94.1%, which includes a 98.3% accuracy for masterCategory, 94.7% for subCategory and 89.4% for gender.
 * The model successfully classified all the different classes within masterCategory, almost all of them within subCategory but for the gender task classification, the model struggled to classify correctly the unisex articles.
 
-![correct image](/docs/assets/correct0%20(1).png)
-![incorrect image](/docs/assets/incorrectgender%20(1).png)
+![correct image](/docs/assets/correct0.png)
+![incorrect image](/docs/assets/incorrectgender.png)
 
 _the above images show examples of a correctly and an incorreclty classified article images_
 
@@ -35,7 +35,7 @@ _this shows the most important words in the reviews the model found to different
 * The confusion matrix showed the model confused the original class with a similar class (e.g. 6 with 7).
 * Improvements of the predictor model could be done by changing the model as a regressor or bin classes to form general classes (low, medium, high quality).
 
-![doe](/docs/assets/DoE%20(1).png) 
+![doe](/docs/assets/DoE.png) 
 
 _this is the Design of Experiment strategy I used to find the optimal hyperparameters for the neural network arquitecture_
 
@@ -48,7 +48,7 @@ _this is the Design of Experiment strategy I used to find the optimal hyperparam
 
 ![BayesianNetwork](/docs/assets/graph.png)
 
-_this is a graphical representation of the bayesian network I created for the dss_
+_this is a graphical representation of the bayesian network I created for the dss taking showing the prior probabilities_
 
 ## [Project 5: Blockchain Development](https://github.com/CarolinaKra/Blockchain)
 * Development of a cryptocurrency
@@ -71,4 +71,5 @@ _this is a graphical representation of the bayesian network I created for the ds
 
 ![levelofhelp](/docs/assets/levelofHelp.png)
 
+_this is an example of the visualisation in the project which shows how much Video Conferencing helped the population cope with social distancing during the Pandemic_
 
