@@ -39,7 +39,7 @@ _this shows the most important words in the reviews the model found to different
 
 _this is the Design of Experiment strategy I used to find the optimal hyperparameters for the neural network arquitecture_
 
-##[Project 4: Life Saving Decision Support System](https://github.com/CarolinaKra/LifeSavingDSS)
+## [Project 4: Life Saving Decision Support System](https://github.com/CarolinaKra/LifeSavingDSS)
 * Developed a Decision Support System (DSS) that can determine whether a person needs resuscitation using user inputs into an app and live data from wearable devices.
 * Set Objective, Task and Constraints
 * Created a Conceptual Design of the DSS
@@ -49,6 +49,18 @@ _this is the Design of Experiment strategy I used to find the optimal hyperparam
 ![BayesianNetwork](/Carolina_Portfolio/assets/graph.png)
 
 _this is a graphical representation of the bayesian network I created for the dss_
+
+## [Project 5: Blockchain Development](https://github.com/CarolinaKra/Blockchain)
+* Development of a cryptocurrency
+* Development of the transaction unit, using cryptography for the transaction signature and the transaction verification
+* Development of the block unit, and the function for mining a block using proof-of-work as the consensus mechanism
+* Development of the blockchain itself with the possibility of reorg in the case of a fork, keeping the chain with the highest difficulty
+* The development of a blockchain keeps track of the user status, which includes a nonce and its balance.
+* Unification of the developed code with other given programmes to be able to mine blocks in a distributed blockchain.
+* Further research and essay writing on different areas within the cryptocurrency world
+
+
+
 
 
 
