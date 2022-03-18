@@ -1,7 +1,8 @@
 
 ## [Project 1: Multi-Label Classification of Fashion Articles Images](https://github.com/CarolinaKra/FashionArticlesImageClassification)
 * Developed a CNN model that predicts the gender, the category and the subcategory of fashion article images
-* Carried out Data exploration and Data cleansing and Image Processing for data preparation
+* Carried out Exploratory Data Analysis
+* Carried out data cleansing and Image Processing as part of the data preparation stage
 * I applied the keras functional API for building models with multiple outputs
 * I explored models with different local receptive field sizes and number of filters on the conv2d layers, different number of nodes in the dense layer, addition of BatchNormalisation and addition of Dropout layer of different rates.
 * The final model achieved an averaged accuracy of 94.1%, which includes a 98.3% accuracy for masterCategory, 94.7% for subCategory and 89.4% for gender.
@@ -25,6 +26,18 @@ _the above images show examples of a correctly and an incorreclty classified art
 ![features](https://github.com/CarolinaKra/Carolina_Portfolio/blob/main/docs/assets/NLPimportantFeaturessmall.png)
 
 _this shows the most important words in the reviews the model found to differentiate the positive from the negative reviews_
+
+## [Project 3: Wine Quality Predictor](https://github.com/CarolinaKra/WineQualityPredictor)
+* Developed a NN model that attempts to predict the sensory quality of wine based on its physicochemical properties.
+* This project followed the Universal Machine Learning Workflow.
+* I used a Design-of-Experiments (DoE) strategy to explore the influence of 3 hyperparameters: number of nodes per layer, number of layers and the type of activation function. The aim of the DoE was to maximise the exploratory space while minimising the number of experiments.
+* The final model achieved an accuracy of 67.62%, improving the initial 44.9% of the baseline model.
+* The confusion matrix showed the model confused the original class with a similar class (e.g. 6 with 7).
+* Improvements of the predictor model could be done by changing the model as a regressor or bin classes to form general classes (low, medium, high quality).
+
+
+
+
 
 
 
