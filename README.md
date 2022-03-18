@@ -51,7 +51,7 @@ _Design of Experiment strategy I used to find the optimal hyperparameters for th
 * Implemented a DSS using Bayesian Network as a knowledge model in python
 * Queried the DSS to obtain the best decision in different scenarios
 
-![BayesianNetwork](/docs/assets/graph.png)
+![BayesianNetwork](/docs/assets/graphsmall.png)
 
 _Graphical representation of the bayesian network I created for the dss showing the prior probabilities_
 
