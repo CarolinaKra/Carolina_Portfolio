@@ -8,8 +8,8 @@
 * The final model achieved an averaged accuracy of 94.1%, which includes a 98.3% accuracy for masterCategory, 94.7% for subCategory and 89.4% for gender.
 * The model successfully classified all the different classes within masterCategory, almost all of them within subCategory but for the gender task classification, the model struggled to classify correctly the unisex articles.
 
-![correct image](/Carolina_Portfolio/assets/correct0%20(1).png)
-![incorrect image](/Carolina_Portfolio/assets/incorrectgender%20(1).png)
+![correct image](/docs/assets/correct0%20(1).png)
+![incorrect image](/docs/assets/incorrectgender%20(1).png)
 
 _the above images show examples of a correctly and an incorreclty classified article images_
 
@@ -23,7 +23,7 @@ _the above images show examples of a correctly and an incorreclty classified art
 * The best model achieved an accuracy of 86.3% and an f1 with macroaveraging of 64.2% 
 * Found that it is feasible to predict positive and negative reviews, but not so much the neutral ones
 
-![features](/Carolina_Portfolio/assets/NLPimportantFeaturessmall.png)
+![features](/docs/assets/NLPimportantFeaturessmall.png)
 
 _this shows the most important words in the reviews the model found to differentiate the positive from the negative reviews_
 
@@ -35,7 +35,7 @@ _this shows the most important words in the reviews the model found to different
 * The confusion matrix showed the model confused the original class with a similar class (e.g. 6 with 7).
 * Improvements of the predictor model could be done by changing the model as a regressor or bin classes to form general classes (low, medium, high quality).
 
-![doe](/Carolina_Portfolio/assets/DoE%20(1).png) 
+![doe](/docs/assets/DoE%20(1).png) 
 
 _this is the Design of Experiment strategy I used to find the optimal hyperparameters for the neural network arquitecture_
 
@@ -46,7 +46,7 @@ _this is the Design of Experiment strategy I used to find the optimal hyperparam
 * Implemented a DSS using Bayesian Network as a knowledge model in python
 * Queried the DSS to obtain the best decision in different scenarios
 
-![BayesianNetwork](/Carolina_Portfolio/assets/graph.png)
+![BayesianNetwork](/docs/assets/graph.png)
 
 _this is a graphical representation of the bayesian network I created for the dss_
 
@@ -69,6 +69,6 @@ _this is a graphical representation of the bayesian network I created for the ds
 * Concluded that Video Conferencing brings a great benefit for the society in the way that people can connect and the way that individuals can develop, especially during the pandemic
 * Predicted that in the future post-pandemic, the population will use Video Conferencing less frequently than the time during pandemic, and it will continue to be an important tool for work and study purposes.
 
-![levelofhelp](/Carolina_Portfolio/blob/main/docs/assets/levelofHelp.png)
+![levelofhelp](/docs/assets/levelofHelp.png)
 
 
