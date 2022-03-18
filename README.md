@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+# Carolina Krawczyk   
+## **Data Scientist and AI specialist**
+# My Portfolio
 
 You can use the [editor on GitHub](https://github.com/CarolinaKra/Carolina_Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
