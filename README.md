@@ -59,39 +59,16 @@ _this is a graphical representation of the bayesian network I created for the ds
 * Unification of the developed code with other given programmes to be able to mine blocks in a distributed blockchain.
 * Further research and essay writing on different areas within the cryptocurrency world
 
+## [Project 6: Influence Of Video Conferences](https://github.com/CarolinaKra/InfluenceOfVideoConferences)
+###  A DataViz and Qualitative Analysis Project
+* Analysed the Influence of Video Conferencing on society during the Covid-19 Pandemic (Dec 2020) 
+* Set Research Question, Motivation and Objectives
+* Designed and Conducted a self-administered survey
+* Cleaned and Prepared the Data for Analysis
+* Analysed Data with Tables, Visualisations and Correlation Calculations
+* Concluded that Video Conferencing brings a great benefit for the society in the way that people can connect and the way that individuals can develop, especially during the pandemic
+* Predicted that in the future post-pandemic, the population will use Video Conferencing less frequently than the time during pandemic, and it will continue to be an important tool for work and study purposes.
+
+![levelofhelp](/Carolina_Portfolio/blob/main/docs/assets/levelofHelp.png)
 
 
-
-
-
-
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CarolinaKra/Carolina_Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
