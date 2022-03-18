@@ -7,8 +7,8 @@
 * The final model achieved an averaged accuracy of 94.1%, which includes a 98.3% accuracy for masterCategory, 94.7% for subCategory and 89.4% for gender.
 * The model successfully classified all the different classes within masterCategory, almost all of them within subCategory but for the gender task classification, the model struggled to classify correctly the unisex articles.
 
-![](/Images/correct0%20(1).png)
-![alt text](/Images/incorrectgender%20(1).png)
+![correct image](https://github.com/CarolinaKra/Carolina_Portfolio/blob/main/docs/assets/correct0%20(1).png)
+![incorrect image](https://github.com/CarolinaKra/Carolina_Portfolio/blob/main/docs/assets/incorrectgender%20(1).png)
 
 _the above images show examples of a correctly and an incorreclty classified article images_
 
@@ -22,7 +22,7 @@ _the above images show examples of a correctly and an incorreclty classified art
 * The best model achieved an accuracy of 86.3% and an f1 with macroaveraging of 64.2% 
 * Found that it is feasible to predict positive and negative reviews, but not so much the neutral ones
 
-![](https://github.com/CarolinaKra/Carolina_Portfolio/blob/main/Images/NLPimportantFeaturessmall.png)
+![features](https://github.com/CarolinaKra/Carolina_Portfolio/blob/main/docs/assets/NLPimportantFeaturessmall.png)
 
 _this shows the most important words in the reviews the model found to differentiate the positive from the negative reviews_
 
