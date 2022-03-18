@@ -13,7 +13,8 @@
 ![incorrect image](/docs/assets/incorrectgender.png)
 
 _Examples of a correctly and an incorreclty classified article images_
-_The dataset contained low quality images (80x60 pixels) to speed up the learning process_
+
+_The dataset contained low quality images (80x60 pixels) to speed up the model learning process_
 
 ## [Project 2: Sentiment Analysis on Tourist Accommodation Reviews](https://github.com/CarolinaKra/SentimentAnalysisHotelReviews)
 ### My Natural Language Processing Project
@@ -65,7 +66,7 @@ _Graphical representation of the bayesian network I created for the dss showing 
 * Further research and essay writing on different areas within the cryptocurrency world
 
 ## [Project 6: Influence Of Video Conferences](https://github.com/CarolinaKra/InfluenceOfVideoConferences)
-###  A DataViz and Qualitative Analysis Project
+### My DataViz and Qualitative Analysis Project
 * Analysed the Influence of Video Conferencing on society during the Covid-19 Pandemic (Dec 2020) 
 * Set Research Question, Motivation and Objectives
 * Designed and Conducted a self-administered survey
@@ -76,5 +77,5 @@ _Graphical representation of the bayesian network I created for the dss showing 
 
 ![levelofhelp](/docs/assets/levelofHelp.png)
 
-_Example of the visualisation in the project which shows how much Video Conferencing helped the population cope with social distancing during the Pandemic_
+_Example of the visualisation in the project which shows how much Video Conferencing helped the population cope with social distancing during the pandemic_
 
