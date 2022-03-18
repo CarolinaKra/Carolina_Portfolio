@@ -1,6 +1,6 @@
 
 ## [Project 1: Multi-Label Classification of Fashion Articles Images](https://github.com/CarolinaKra/FashionArticlesImageClassification)
-### My Computer vision Project with Convolutional Neural Networks
+### My Computer Vision Project with Convolutional Neural Networks
 * Developed a CNN model that predicts the gender, the category and the subcategory of fashion article images
 * Carried out Exploratory Data Analysis
 * Carried out Data Cleansing and Image Processing as part of the data preparation stage
@@ -9,8 +9,8 @@
 * The final model achieved an averaged accuracy of 94.1%, which composes a 98.3% accuracy for masterCategory, 94.7% for subCategory and 89.4% for gender.
 * The model successfully classified all the different classes within masterCategory, almost all of them within subCategory but for the gender task classification, the model struggled to classify correctly the unisex articles.
 
-![correct image](/docs/assets/correct0small.png)
-![incorrect image](/docs/assets/incorrectgendersmall.png)
+![correct image](/docs/assets/correct0cropped.png)
+![incorrect image](/docs/assets/incorrectgendercropped.png)
 
 _Examples of a correctly and an incorreclty classified article images_
 
@@ -57,6 +57,7 @@ _Design of Experiment strategy I used to find the optimal hyperparameters for th
 _Graphical representation of the bayesian network I created for the dss showing the prior probabilities_
 
 ## [Project 5: Blockchain Development](https://github.com/CarolinaKra/Blockchain)
+### I took part of the creation of ZimCoin
 * Developed a cryptocurrency
 * Developed the transaction unit, using cryptography for the transaction signature and the transaction verification
 * Developed the block unit, and the function for mining a block using proof-of-work as the consensus mechanism
