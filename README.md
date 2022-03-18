@@ -9,8 +9,8 @@
 * The final model achieved an averaged accuracy of 94.1%, which composes a 98.3% accuracy for masterCategory, 94.7% for subCategory and 89.4% for gender.
 * The model successfully classified all the different classes within masterCategory, almost all of them within subCategory but for the gender task classification, the model struggled to classify correctly the unisex articles.
 
-![correct image](/docs/assets/correct0.png)
-![incorrect image](/docs/assets/incorrectgender.png)
+![correct image](/docs/assets/correct0small.png)
+![incorrect image](/docs/assets/incorrectgendersmall.png)
 
 _Examples of a correctly and an incorreclty classified article images_
 
@@ -75,7 +75,7 @@ _Graphical representation of the bayesian network I created for the dss showing 
 * Concluded that Video Conferencing brings a great benefit for the society in the way that people can connect and the way that individuals can develop, especially during the pandemic
 * Predicted that in the future post-pandemic, the population will use Video Conferencing less frequently than the time during pandemic, and it will continue to be an important tool for work and study purposes.
 
-![levelofhelp](/docs/assets/levelofHelp.png)
+![levelofhelp](docs/assets/levelofHelp.png)
 
-_Example of the visualisation in the project which shows how much Video Conferencing helped the population cope with social distancing during the pandemic_
+_Example of a visualisation within the project which shows how much Video Conferencing helped the population cope with social distancing during the pandemic_
 
