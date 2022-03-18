@@ -10,6 +10,12 @@
 * The final model achieved an averaged accuracy of 94.1%, which includes a 98.3% accuracy for masterCategory, 94.7% for subCategory and 89.4% for gender.
 * The confusion matrices show that the model successfully classified all the different classes within masterCategory, almost all of them within subCategory but for the gender task classification, the model struggled to classify correctly the unisex articles.
 
+![](/Images/correct0%20(1).png)
+![alt text](/Images/incorrectgender%20(1).png)
+
+## [Project 2: Sentiment Analysis ]
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
