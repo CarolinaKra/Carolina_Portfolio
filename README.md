@@ -22,6 +22,9 @@ _the above images show examples of a correctly and an incorreclty classified art
 * The best model achieved an accuracy of 86.3% and an f1 with macroaveraging of 64.2% 
 * Found that it is feasible to predict positive and negative reviews, but not so much the neutral ones
 
+![](https://github.com/CarolinaKra/Carolina_Portfolio/blob/main/Images/NLPimportantFeaturessmall.png)
+
+_this shows the most important words in the reviews the model found to differentiate the positive from the negative reviews_
 
 
 
