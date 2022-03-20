@@ -1,4 +1,12 @@
 
+# About me:
+I am a Data Scientist with AI specialisation. I am currently working on my final project for my MSc in Data Science and AI from the University of London.
+I have a strong interest in AI, Neural Networks and Machine Learning.
+
+Besides this, I have a very strong analytical mind and I am a values-driven professional.
+I was born in Argentina, as a child and a teenager, I participated in various Mathematical Olympiads and reached the national final. I moved to Israel as a teenager, where I finished college and served in the Israeli Army as a medic. Then, I have studied for my BSc in Biotechnology Engineering at the Ben Gurion University of the Negev. During that last year, as part of my final project, I proposed an optimised method to produce biodiesel from waste. This has strengthened my values in the environment and led to my interest in the renewable energy sector. This is the sector where I have done most of my professional career, both in Israel and in the UK, working on different projects such as product development, process optimisation and analytical test method development. However, I realised that the parts I enjoyed the most from my work were the parts that I analysed data and when I tried to fit models into the analytical results. By 2019, I started researching and self-learning data science and in April 2020, I enrolled in the MSc.Data Science programme. This Portfolio reflects some of the projects I have done during my master's and as part of my last job at Johnson Matthey Fuel Cell.
+
+# My Projects:
 ## [Project 1: Multi-Label Classification of Fashion Articles Images](https://github.com/CarolinaKra/FashionArticlesImageClassification)
 ### My Computer Vision Project with Convolutional Neural Networks
 * Developed a CNN model that predicts the gender, the category and the subcategory of fashion article images
@@ -9,8 +17,8 @@
 * The final model achieved an averaged accuracy of 94.1%, which composes a 98.3% accuracy for masterCategory, 94.7% for subCategory and 89.4% for gender.
 * The model successfully classified all the different classes within masterCategory, almost all of them within subCategory but for the gender task classification, the model struggled to classify correctly the unisex articles.
 
-![correct image](/docs/assets/correct0cropped.png)
-![incorrect image](/docs/assets/incorrectgendercropped.png)
+![correct image](/docs/assets/correct0.png)
+![incorrect image](/docs/assets/incorrectgender.png)
 
 _Examples of a correctly and an incorreclty classified article images_
 
@@ -79,4 +87,22 @@ _Graphical representation of the bayesian network I created for the dss showing 
 ![levelofhelp](docs/assets/levelofHelp.png)
 
 _Example of a visualisation within the project which shows how much Video Conferencing helped the population cope with social distancing during the pandemic_
+
+## Project 7: Understading the raw material and production process effects in the product viscosity curve
+### Attempting to solve a real business/production problem
+* Created a model which was composed of two different models to understand the relationship between the raw materials properties, the production process with the product characteristics. 
+* The company was having high defect rates which make her loose money.
+* With a new analysis method I demonstrated the link between the intermediate product characteristics with the defect rates in the final product.
+* The result of this analysis method is not a number but a combination of two variables forming a curve.
+* Joined data from different sources across the company (suppliers, production, QC lab) and prepared the final dataset.
+* Created a model to link the product characteristic, represented as a curve, with the different input data to understand the main factors that affected the product. 
+* The final model was composed of two models
+  * The first was done with the Functional Data Explorer from JMP PRO, which aim is to decompose the curves into eigen-fuctions and eigen values. This is similar to Principal Component Analysis but with more advanced functionality.
+  * The second model was done as a regression with Partial Least Squares due to the high multi-correlation between the inputs.
+* This model shown that the main contribuitor to the product charcateristic was one of the raw material however it was difficult to pinpoint on a specific property due to correlation between them.
+* A further experiment with different raw material properties was carried out however it didn't led to a significant results.
+* This work was selected as one of the 20 projects to be presented in a 5-day internal science conference.
+* I gave a an online presentation about this project in this conference to an audience of hundreeds of JM scientist and engineers around the globe.
+
+
 
