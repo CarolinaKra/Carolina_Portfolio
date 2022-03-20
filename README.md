@@ -14,7 +14,7 @@ I was born in Argentina, as a child and a teenager, I participated in various Ma
 * Carried out Data Cleansing and Image Processing as part of the data preparation stage
 * I applied the keras functional API for building models with multiple outputs
 * I explored models with different local receptive field sizes and number of filters on the conv2d layers, different number of nodes in the dense layer, addition of BatchNormalisation and addition of Dropout layer of different rates.
-* The final model achieved an averaged accuracy of 94.1%, which composes a 98.3% accuracy for masterCategory, 94.7% for subCategory and 89.4% for gender.
+* The final model achieved an averaged accuracy of 94.1%, which composes of a 98.3% accuracy for masterCategory, 94.7% for subCategory and 89.4% for gender.
 * The model successfully classified all the different classes within masterCategory, almost all of them within subCategory but for the gender task classification, the model struggled to classify correctly the unisex articles.
 
 ![correct image](/docs/assets/correct0.png)
