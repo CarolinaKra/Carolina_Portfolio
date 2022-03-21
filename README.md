@@ -8,7 +8,7 @@ I am a Data Scientist with AI specialisation. I am currently working on my final
 *  +9 years experience in chemical industries, mainly within the Renewable Energy sector.
 *  +6 years UK-based professional. 
 *  Awards: 
-    *  Scholarship "Green Campus" for my Bsc final Project in biodiesel production from waste. 
+    *  Scholarship "Green Campus" for my Bsc Final Project in biodiesel production from waste. 
     *  National Finalist in Mathematical Olimpiads in Argentina.
 * Distinctions: Served as a medic in the Israeli Army. 
 
@@ -24,7 +24,7 @@ I am a Data Scientist with AI specialisation. I am currently working on my final
 
 ## Project 1: Understading the raw material and production process effects in the product viscosity curve
 ### Solving a real business problem
-* Created a model which was composed of two different models to understand the relationship between the raw materials properties, the production process with the product characteristics. 
+* Created a model which was composed of two different models to understand the relationship between the raw materials properties and the production process with the product characteristics. 
 * The company was having high defect rates which make her loose money.
 * With a new rheological analysis method, I demonstrated the link between the intermediate product characteristics with the defect rates in the final product.
 * The result of this analysis method is not a number but a combination of two variables forming a curve (viscosity vs shear rate).
@@ -33,7 +33,7 @@ I am a Data Scientist with AI specialisation. I am currently working on my final
 * The final model was composed of two models
   * The first was done with the Functional Data Explorer from JMP PRO, which aim is to decompose the curves into eigen-fuctions and eigen values. This is similar to Principal Component Analysis but with more advanced functionality.
   * The second model was done as a regression with Partial Least Squares due to the high multi-correlation between the inputs.
-* This model shown that the main contribuitor to the product charcateristic was one of the raw material however it was difficult to pinpoint on a specific property due to correlation between them.
+* This model shown that the main contribuitor to the product charcateristic was one of the raw materials, however, it was difficult to pinpoint on a specific property due to the correlation between them.
 * A further experiment with different raw material properties was carried out however it didn't led to a significant results.
 * This work was selected as one of the 20 projects to be presented in a 5-day internal science conference.
 * In June 2021, I presented this project via videoconferencing to hundreds of JM scientists and engineers around the world.
