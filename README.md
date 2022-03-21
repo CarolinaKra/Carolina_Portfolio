@@ -14,7 +14,7 @@ I am a Data Scientist with AI specialisation. I am currently working on my final
 
 # My Projects:
 ## Table of Contents:
-* Project 1: Understanding how the raw material and production process effects in the product characteristics
+* Project 1: Understanding the raw material and production process effects in the product characteristics
 * Project 2: Multi-Label Classification of Fashion Articles Images
 * Project 3: Sentiment Analysis on Tourist Accommodation Reviews
 * Project 4: Wine Quality Predictor
@@ -22,7 +22,7 @@ I am a Data Scientist with AI specialisation. I am currently working on my final
 * Project 6: Blockchain Development
 * Project 7: Influence Of Video Conferences
 
-## Project 1: Understanding how the raw material and production process effects in the product characteristics.
+## Project 1: Understanding the raw material and production process effects in the product characteristics.
 ### Solving a real business problem
 * Created a model which was composed of two different models to understand the relationship between the raw materials properties and the production process with the product characteristics. 
 * The company was having high defect rates which make her lose money.
