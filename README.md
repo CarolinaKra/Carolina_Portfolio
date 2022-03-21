@@ -14,7 +14,7 @@ I am a Data Scientist with AI specialisation. I am currently working on my final
 
 # My Projects:
 ## Table of Contents:
-* Project 1: Understanding the raw material and production process effects in the product characteristics
+* Project 1: Statistical and Rheological Analysis to improve the Product Quality
 * Project 2: Multi-Label Classification of Fashion Articles Images
 * Project 3: Sentiment Analysis on Tourist Accommodation Reviews
 * Project 4: Wine Quality Predictor
@@ -22,19 +22,19 @@ I am a Data Scientist with AI specialisation. I am currently working on my final
 * Project 6: Blockchain Development
 * Project 7: Influence Of Video Conferences
 
-## Project 1: Understanding the raw material and production process effects in the product characteristics.
-### Solving a real business problem
-* Created a model which was composed of two different models to understand the relationship between the raw materials properties and the production process with the product characteristics. 
+## Project 1: Statistical and Rheological Analysis to improve the Product Quality
+* Created a model which was composed of two different models to understand the relationship between the raw materials properties and the production process with the product characteristics to improve the final product quality
 * The company was having high defect rates which make her lose money.
 * With a new rheological analysis method, I demonstrated the link between the intermediate product characteristics with the defect rates in the final product.
 * The result of this analysis method is not a number but a combination of two variables forming a curve (viscosity vs shear rate).
-* Joined data from different sources across the company (suppliers, production, QC lab) and prepared the final dataset.
+* Joined data from different sources across the company (suppliers, production, QC lab) and prepared a dataset for analysis.
 * Created a model to link the product characteristic, represented as a curve, with the different input data to understand the main factors that affected the product. 
 * The final model was composed of two models
   * The first was done with the Functional Data Explorer from JMP PRO, which aim is to decompose the curves into Eigen-functions and eigenvalues. This is similar to Principal Component Analysis but with more advanced functionality.
   * The second model was done as a regression with Partial Least Squares due to the high multi-correlation between the inputs.
 * This model showed that the main contributor to the product charateristic was one of the raw materials, however, it was difficult to pinpoint on a specific property due to the correlation between them.
-* A further experiment with different raw material properties was carried out however it didn't lead to a significant results.
+* A further experiment with different raw material properties was carried out however it didn't lead to a significant results due to the low variability in the raw material provided by the supplier.
+* An alternative solution was proposed to mitigate the problem.
 * This work was selected as one of the 20 projects to be presented in a 5-day internal science conference.
 * In June 2021, I presented this project via videoconferencing to hundreds of scientists and engineers around the world.
 
