@@ -102,7 +102,4 @@ _Example of a visualisation within the project which shows how much Video Confer
 * This model shown that the main contribuitor to the product charcateristic was one of the raw material however it was difficult to pinpoint on a specific property due to correlation between them.
 * A further experiment with different raw material properties was carried out however it didn't led to a significant results.
 * This work was selected as one of the 20 projects to be presented in a 5-day internal science conference.
-* I gave a an online presentation about this project in this conference to an audience of hundreeds of JM scientist and engineers around the globe.
-
-
-
+* In June 2021, I presented this project via videoconferencing to hundreds of JM scientists and engineers around the world
