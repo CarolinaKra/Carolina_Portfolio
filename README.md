@@ -27,7 +27,7 @@ I am a Data Scientist with AI specialisation. I am currently working on my final
 * The company was having high defect rates which make her lose money.
 * With a new rheological analysis method, I demonstrated the link between the intermediate product characteristics with the defect rates in the final product.
 * The result of this analysis method is not a number but a combination of two variables forming a curve (viscosity vs shear rate).
-* Joined data from different sources across the company (suppliers, production, QC lab) and prepared a dataset for analysis.
+* Joined data from different sources across the company (supply chain, production, QC lab) and prepared a dataset for analysis.
 * Created a model to link the product characteristic, represented as a curve, with the different input data to understand the main factors that affected the product. 
 * The final model was composed of two models
   * The first was done with the Functional Data Explorer from JMP PRO, which aim is to decompose the curves into Eigen-functions and eigenvalues. This is similar to Principal Component Analysis but with more advanced functionality.
