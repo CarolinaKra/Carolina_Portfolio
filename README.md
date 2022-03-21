@@ -5,36 +5,36 @@ I am a Data Scientist with AI specialisation. I am currently working on my final
 
 * Strong analytical and quantitative background.
 * Originally from Argentina, academically educated in Israel and in the UK.
-* Degrees: Msc Data Science and AI (expected completion 9/22), Bsc. Biotechnology Engineering.
+* Degrees: MSc Data Science and AI (expected completion 9/22), BSc. Biotechnology Engineering.
 *  +9 years experience in chemical industries, mainly within the Renewable Energy sector.
 *  +6 years UK-based professional. 
 *  Awards: 
     *  Scholarship "Green Campus" for my Bsc Final Project in biodiesel production from waste. 
-    *  National Finalist in Mathematical Olimpiads in Argentina.
+    *  National Finalist in Mathematical Olympiads in Argentina.
 
 # My Projects:
 ## Table of Contents:
-* Project 1: Understading the raw material and production process effects in the product characteristics
+* Project 1: Understanding how the raw material and production process effects in the product characteristics
 * Project 2: Multi-Label Classification of Fashion Articles Images
 * Project 3: Sentiment Analysis on Tourist Accommodation Reviews
 * Project 4: Wine Quality Predictor
-* Project 5: Life Saving Decision Support System
+* Project 5: Life-Saving Decision Support System
 * Project 6: Blockchain Development
 * Project 7: Influence Of Video Conferences
 
-## Project 1: Understading the raw material and production process effects in the product characteristics.
+## Project 1: Understanding how the raw material and production process effects in the product characteristics.
 ### Solving a real business problem
 * Created a model which was composed of two different models to understand the relationship between the raw materials properties and the production process with the product characteristics. 
-* The company was having high defect rates which make her loose money.
+* The company was having high defect rates which make her lose money.
 * With a new rheological analysis method, I demonstrated the link between the intermediate product characteristics with the defect rates in the final product.
 * The result of this analysis method is not a number but a combination of two variables forming a curve (viscosity vs shear rate).
 * Joined data from different sources across the company (suppliers, production, QC lab) and prepared the final dataset.
 * Created a model to link the product characteristic, represented as a curve, with the different input data to understand the main factors that affected the product. 
 * The final model was composed of two models
-  * The first was done with the Functional Data Explorer from JMP PRO, which aim is to decompose the curves into eigen-fuctions and eigen values. This is similar to Principal Component Analysis but with more advanced functionality.
+  * The first was done with the Functional Data Explorer from JMP PRO, which aim is to decompose the curves into Eigen-functions and eigenvalues. This is similar to Principal Component Analysis but with more advanced functionality.
   * The second model was done as a regression with Partial Least Squares due to the high multi-correlation between the inputs.
-* This model shown that the main contribuitor to the product charcateristic was one of the raw materials, however, it was difficult to pinpoint on a specific property due to the correlation between them.
-* A further experiment with different raw material properties was carried out however it didn't led to a significant results.
+* This model showed that the main contributor to the product charateristic was one of the raw materials, however, it was difficult to pinpoint on a specific property due to the correlation between them.
+* A further experiment with different raw material properties was carried out however it didn't lead to a significant results.
 * This work was selected as one of the 20 projects to be presented in a 5-day internal science conference.
 * In June 2021, I presented this project via videoconferencing to hundreds of scientists and engineers around the world.
 
@@ -43,17 +43,18 @@ I am a Data Scientist with AI specialisation. I am currently working on my final
 * Developed a CNN model that predicts the gender, the category and the subcategory of fashion article images.
 * Carried out Exploratory Data Analysis.
 * Carried out Data Cleansing and Image Processing as part of the data preparation stage.
-* I applied the keras functional API for building models with multiple outputs.
-* I explored models with different local receptive field sizes and number of filters on the conv2d layers, different number of nodes in the dense layer, addition of BatchNormalisation and addition of Dropout layer of different rates.
+* I applied the Keras functional API for building models with multiple outputs.
+* I explored models with different local receptive field sizes and number of filters on the conv2d layers, different number of nodes in the dense layer.
+* I explred the addition of BatchNormalisation and the addition of Dropout layer of different rates.
 * The final model achieved an averaged accuracy of 94.1%, which is composed of a 98.3% accuracy for masterCategory, 94.7% for subCategory and 89.4% for gender.
 * The model successfully classified all the different classes within masterCategory, almost all of them within subCategory but for the gender task classification, the model struggled to classify correctly the unisex articles.
 
 ![correct image](/docs/assets/correct0.png)
 ![incorrect image](/docs/assets/incorrectgender.png)
 
-_Examples of a correctly and an incorreclty classified article images_
+_Examples of a correctly and an incorrectly classified article images_
 
-_The dataset contained low quality images (80x60 pixels) to speed up the model learning process_
+_The dataset contained low-quality images (80x60 pixels) to speed up the model learning process_
 
 ## [Project 3: Sentiment Analysis on Tourist Accommodation Reviews](https://github.com/CarolinaKra/SentimentAnalysisHotelReviews)
 ### My Natural Language Processing Project
@@ -83,7 +84,7 @@ _The most important words in the reviews the model found to differentiate betwee
 
 _Design of Experiment strategy I used to find the optimal hyperparameters for the neural network arquitecture_
 
-## [Project 5: Life Saving Decision Support System](https://github.com/CarolinaKra/LifeSavingDSS)
+## [Project 5: Life-Saving Decision Support System](https://github.com/CarolinaKra/LifeSavingDSS)
 ### My Artificial Intelligence Project
 * Developed a Decision Support System (DSS) that can determine whether a person needs resuscitation using user inputs into an app and live data from wearable devices.
 * Set Objective, Task and Constraints
@@ -93,10 +94,10 @@ _Design of Experiment strategy I used to find the optimal hyperparameters for th
 
 ![BayesianNetwork](/docs/assets/graphsmall.png)
 
-_Graphical representation of the bayesian network I created for the dss showing the prior probabilities_
+_Graphical representation of the bayesian network I created for the DSS_
 
 ## [Project 6: Blockchain Development](https://github.com/CarolinaKra/Blockchain)
-### I took part of the creation of ZimCoin
+### I took part in the creation of ZimCoin
 * Developed a cryptocurrency
 * Developed the transaction unit, using cryptography for the transaction signature and the transaction verification.
 * Developed the block unit, and the function for mining a block using proof-of-work as the consensus mechanism.
@@ -108,12 +109,12 @@ _Graphical representation of the bayesian network I created for the dss showing 
 ## [Project 7: Influence Of Video Conferences](https://github.com/CarolinaKra/InfluenceOfVideoConferences)
 ### My DataViz and Qualitative Analysis Project
 * Analysed the Influence of Video Conferencing on society during the Covid-19 Pandemic (Dec 2020).
-* Set Research Question, Motivation and Objectives.
+* Set Research Questions, Motivation and Objectives.
 * Designed and Conducted a self-administered survey.
 * Cleaned and Prepared the Data for Analysis.
 * Analysed Data with Tables, Visualisations and Correlation Calculations.
 * Concluded that Video Conferencing brings a great benefit for the society in the way that people can connect and the way that individuals can develop, especially during the pandemic.
-* Predicted that in the future post-pandemic, the population will use Video Conferencing less frequently than the time during pandemic, and it will continue to be an important tool for work and study purposes.
+* Predicted that in the future post-pandemic, the population will use Video Conferencing less frequently than the time during the pandemic, and it will continue to be an important tool for work and study purposes.
 
 ![levelofhelp](docs/assets/levelofHelp.png)
 
