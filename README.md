@@ -36,7 +36,7 @@ I am a Data Scientist with AI specialisation. I am currently working on my final
 * This model shown that the main contribuitor to the product charcateristic was one of the raw materials, however, it was difficult to pinpoint on a specific property due to the correlation between them.
 * A further experiment with different raw material properties was carried out however it didn't led to a significant results.
 * This work was selected as one of the 20 projects to be presented in a 5-day internal science conference.
-* In June 2021, I presented this project via videoconferencing to hundreds of JM scientists and engineers around the world.
+* In June 2021, I presented this project via videoconferencing to hundreds of scientists and engineers around the world.
 
 ## [Project 2: Multi-Label Classification of Fashion Articles Images](https://github.com/CarolinaKra/FashionArticlesImageClassification)
 ### My Computer Vision Project with Convolutional Neural Networks
