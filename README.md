@@ -1,13 +1,44 @@
 
 # About me:
-I am a Data Scientist with AI specialisation. I am currently working on my final project for my MSc in Data Science and AI from the University of London.
-I have a strong interest in AI, Neural Networks and Machine Learning.
+I am a Data Scientist with AI specialisation. I am currently working on my final project for my [MSc in Data Science and AI from the University of London](https://london.ac.uk/msc-data-science-and-artificial-intelligence-structure). I have a strong interest in AI, Neural Networks, Machine Learning and Blockchain.
 
-Besides this, I have a very strong analytical mind and I am a values-driven professional.
-I was born in Argentina, as a child and a teenager, I participated in various Mathematical Olympiads and reached the national final. I moved to Israel as a teenager, where I finished college and served in the Israeli Army as a medic. Then, I have studied for my BSc in Biotechnology Engineering at the Ben Gurion University of the Negev. During the last year, as part of my final project, I proposed an optimised method to produce biodiesel from waste. This has strengthened my values for a sustainable environment and led to my interest in the renewable energy sector. This is the sector where I have spent most of my professional career, both in Israel and in the UK, working on different projects such as product development, process optimisation and analytical test method development. Several years ago, I realised that the parts I enjoyed the most from my work were the parts that I analysed data and I tried to fit models into the analytical results. By 2019, I started researching and self-learning Data Science and in April 2020, I enrolled in the MSc. Data Science and AI programme. This career path is more aligned with my interests and strengths. This Portfolio reflects some of the projects I have done during my master's and as part of my last job at Johnson Matthey Fuel Cells.
+* Strong analytical and quantitative background
+* Originally from Argentina, academically educated in Israel and in the UK
+* Degrees: Msc Data Science and AI (expected completion 9/22), Bsc. Biotechnology Engineering
+*  +9 years experience in chemical industries, mainly within the Renewable Energy sector
+*  +6 years UK-based professional 
+*  Awards: 
+  *  Scholarship "Green Campus" for my Bsc final Project in biodiesel production from waste. 
+  *  National Finalist in Mathematical Olimpiads in Argentina
+* Distintions: Served as a medic in the Israeli Army. 
 
 # My Projects:
-## [Project 1: Multi-Label Classification of Fashion Articles Images](https://github.com/CarolinaKra/FashionArticlesImageClassification)
+## Table of Contents:
+* Project 1: Understading the raw material and production process effects in the product viscosity curve
+* Project 2: Multi-Label Classification of Fashion Articles Images
+* Project 3: Sentiment Analysis on Tourist Accommodation Reviews
+* Project 4: Wine Quality Predictor
+* Project 5: Life Saving Decision Support System
+* Project 6: Blockchain Development
+* Project 7: Influence Of Video Conferences
+
+## Project 1: Understading the raw material and production process effects in the product viscosity curve
+### Solving a real business problem
+* Created a model which was composed of two different models to understand the relationship between the raw materials properties, the production process with the product characteristics. 
+* The company was having high defect rates which make her loose money.
+* With a new rheological analysis method, I demonstrated the link between the intermediate product characteristics with the defect rates in the final product.
+* The result of this analysis method is not a number but a combination of two variables forming a curve (viscosity vs shear rate).
+* Joined data from different sources across the company (suppliers, production, QC lab) and prepared the final dataset.
+* Created a model to link the product characteristic, represented as a curve, with the different input data to understand the main factors that affected the product. 
+* The final model was composed of two models
+  * The first was done with the Functional Data Explorer from JMP PRO, which aim is to decompose the curves into eigen-fuctions and eigen values. This is similar to Principal Component Analysis but with more advanced functionality.
+  * The second model was done as a regression with Partial Least Squares due to the high multi-correlation between the inputs.
+* This model shown that the main contribuitor to the product charcateristic was one of the raw material however it was difficult to pinpoint on a specific property due to correlation between them.
+* A further experiment with different raw material properties was carried out however it didn't led to a significant results.
+* This work was selected as one of the 20 projects to be presented in a 5-day internal science conference.
+* In June 2021, I presented this project via videoconferencing to hundreds of JM scientists and engineers around the world.
+
+## [Project 2: Multi-Label Classification of Fashion Articles Images](https://github.com/CarolinaKra/FashionArticlesImageClassification)
 ### My Computer Vision Project with Convolutional Neural Networks
 * Developed a CNN model that predicts the gender, the category and the subcategory of fashion article images
 * Carried out Exploratory Data Analysis
@@ -24,7 +55,7 @@ _Examples of a correctly and an incorreclty classified article images_
 
 _The dataset contained low quality images (80x60 pixels) to speed up the model learning process_
 
-## [Project 2: Sentiment Analysis on Tourist Accommodation Reviews](https://github.com/CarolinaKra/SentimentAnalysisHotelReviews)
+## [Project 3: Sentiment Analysis on Tourist Accommodation Reviews](https://github.com/CarolinaKra/SentimentAnalysisHotelReviews)
 ### My Natural Language Processing Project
 * Developed a model that can predict the sentiment of a textual Tourist Accommodation Review.
 * Showed the keywords that are used in negative and positive reviews.
@@ -39,7 +70,7 @@ _The dataset contained low quality images (80x60 pixels) to speed up the model l
 
 _The most important words in the reviews the model found to differentiate between the positive and the negative reviews_
 
-## [Project 3: Wine Quality Predictor](https://github.com/CarolinaKra/WineQualityPredictor)
+## [Project 4: Wine Quality Predictor](https://github.com/CarolinaKra/WineQualityPredictor)
 ### My first Neural Network Project
 * Developed a Neural Network model that attempts to predict the sensory quality of wine based on its physicochemical properties.
 * This project followed the Universal Machine Learning Workflow.
@@ -52,7 +83,7 @@ _The most important words in the reviews the model found to differentiate betwee
 
 _Design of Experiment strategy I used to find the optimal hyperparameters for the neural network arquitecture_
 
-## [Project 4: Life Saving Decision Support System](https://github.com/CarolinaKra/LifeSavingDSS)
+## [Project 5: Life Saving Decision Support System](https://github.com/CarolinaKra/LifeSavingDSS)
 ### My Artificial Intelligence Project
 * Developed a Decision Support System (DSS) that can determine whether a person needs resuscitation using user inputs into an app and live data from wearable devices.
 * Set Objective, Task and Constraints
@@ -64,7 +95,7 @@ _Design of Experiment strategy I used to find the optimal hyperparameters for th
 
 _Graphical representation of the bayesian network I created for the dss showing the prior probabilities_
 
-## [Project 5: Blockchain Development](https://github.com/CarolinaKra/Blockchain)
+## [Project 6: Blockchain Development](https://github.com/CarolinaKra/Blockchain)
 ### I took part of the creation of ZimCoin
 * Developed a cryptocurrency
 * Developed the transaction unit, using cryptography for the transaction signature and the transaction verification.
@@ -74,7 +105,7 @@ _Graphical representation of the bayesian network I created for the dss showing 
 * Unification of the developed code with other given programmes to be able to mine blocks in a distributed blockchain.
 * Further research and essay writing on different areas within the cryptocurrency world.
 
-## [Project 6: Influence Of Video Conferences](https://github.com/CarolinaKra/InfluenceOfVideoConferences)
+## [Project 7: Influence Of Video Conferences](https://github.com/CarolinaKra/InfluenceOfVideoConferences)
 ### My DataViz and Qualitative Analysis Project
 * Analysed the Influence of Video Conferencing on society during the Covid-19 Pandemic (Dec 2020).
 * Set Research Question, Motivation and Objectives.
@@ -88,18 +119,4 @@ _Graphical representation of the bayesian network I created for the dss showing 
 
 _Example of a visualisation within the project which shows how much Video Conferencing helped the population cope with social distancing during the pandemic_
 
-## Project 7: Understading the raw material and production process effects in the product viscosity curve
-### Attempting to solve a real business problem
-* Created a model which was composed of two different models to understand the relationship between the raw materials properties, the production process with the product characteristics. 
-* The company was having high defect rates which make her loose money.
-* With a new analysis method I demonstrated the link between the intermediate product characteristics with the defect rates in the final product.
-* The result of this analysis method is not a number but a combination of two variables forming a curve.
-* Joined data from different sources across the company (suppliers, production, QC lab) and prepared the final dataset.
-* Created a model to link the product characteristic, represented as a curve, with the different input data to understand the main factors that affected the product. 
-* The final model was composed of two models
-  * The first was done with the Functional Data Explorer from JMP PRO, which aim is to decompose the curves into eigen-fuctions and eigen values. This is similar to Principal Component Analysis but with more advanced functionality.
-  * The second model was done as a regression with Partial Least Squares due to the high multi-correlation between the inputs.
-* This model shown that the main contribuitor to the product charcateristic was one of the raw material however it was difficult to pinpoint on a specific property due to correlation between them.
-* A further experiment with different raw material properties was carried out however it didn't led to a significant results.
-* This work was selected as one of the 20 projects to be presented in a 5-day internal science conference.
-* In June 2021, I presented this project via videoconferencing to hundreds of JM scientists and engineers around the world
+
