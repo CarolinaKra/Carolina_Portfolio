@@ -2,15 +2,15 @@
 # About me:
 I am a Data Scientist with AI specialisation. I am currently working on my final project for my [MSc in Data Science and AI from the University of London](https://london.ac.uk/msc-data-science-and-artificial-intelligence-structure). I have a strong interest in AI, Neural Networks, Machine Learning and Blockchain.
 
-* Strong analytical and quantitative background
-* Originally from Argentina, academically educated in Israel and in the UK
-* Degrees: Msc Data Science and AI (expected completion 9/22), Bsc. Biotechnology Engineering
-*  +9 years experience in chemical industries, mainly within the Renewable Energy sector
-*  +6 years UK-based professional 
+* Strong analytical and quantitative background.
+* Originally from Argentina, academically educated in Israel and in the UK.
+* Degrees: Msc Data Science and AI (expected completion 9/22), Bsc. Biotechnology Engineering.
+*  +9 years experience in chemical industries, mainly within the Renewable Energy sector.
+*  +6 years UK-based professional. 
 *  Awards: 
     *  Scholarship "Green Campus" for my Bsc final Project in biodiesel production from waste. 
-    *  National Finalist in Mathematical Olimpiads in Argentina
-* Distintions: Served as a medic in the Israeli Army. 
+    *  National Finalist in Mathematical Olimpiads in Argentina.
+* Distinctions: Served as a medic in the Israeli Army. 
 
 # My Projects:
 ## Table of Contents:
@@ -40,10 +40,10 @@ I am a Data Scientist with AI specialisation. I am currently working on my final
 
 ## [Project 2: Multi-Label Classification of Fashion Articles Images](https://github.com/CarolinaKra/FashionArticlesImageClassification)
 ### My Computer Vision Project with Convolutional Neural Networks
-* Developed a CNN model that predicts the gender, the category and the subcategory of fashion article images
-* Carried out Exploratory Data Analysis
-* Carried out Data Cleansing and Image Processing as part of the data preparation stage
-* I applied the keras functional API for building models with multiple outputs
+* Developed a CNN model that predicts the gender, the category and the subcategory of fashion article images.
+* Carried out Exploratory Data Analysis.
+* Carried out Data Cleansing and Image Processing as part of the data preparation stage.
+* I applied the keras functional API for building models with multiple outputs.
 * I explored models with different local receptive field sizes and number of filters on the conv2d layers, different number of nodes in the dense layer, addition of BatchNormalisation and addition of Dropout layer of different rates.
 * The final model achieved an averaged accuracy of 94.1%, which is composed of a 98.3% accuracy for masterCategory, 94.7% for subCategory and 89.4% for gender.
 * The model successfully classified all the different classes within masterCategory, almost all of them within subCategory but for the gender task classification, the model struggled to classify correctly the unisex articles.
