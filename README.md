@@ -9,7 +9,7 @@ I am a Data Scientist with AI specialisation. I am currently working on my final
 *  +9 years experience in chemical industries, mainly within the Renewable Energy sector.
 *  +6 years UK-based professional. 
 *  Awards: 
-    *  Scholarship "Green Campus" for my Bsc Final Project in biodiesel production from waste. 
+    *  Scholarship "Green Campus" for my BSc Final Project in biodiesel production from waste. 
     *  National Finalist in Mathematical Olympiads in Argentina.
 
 # My Projects:
