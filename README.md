@@ -1,5 +1,6 @@
 
 # About me:
+My name is Carolina Krawczyk.
 I am a Data Scientist with AI specialisation. I am currently working on my final project for my [MSc in Data Science and AI from the University of London](https://london.ac.uk/msc-data-science-and-artificial-intelligence-structure). I have a strong interest in AI, Neural Networks, Machine Learning and Blockchain.
 
 * Strong analytical and quantitative background.
@@ -10,11 +11,10 @@ I am a Data Scientist with AI specialisation. I am currently working on my final
 *  Awards: 
     *  Scholarship "Green Campus" for my Bsc Final Project in biodiesel production from waste. 
     *  National Finalist in Mathematical Olimpiads in Argentina.
-* Distinctions: Served as a medic in the Israeli Army. 
 
 # My Projects:
 ## Table of Contents:
-* Project 1: Understading the raw material and production process effects in the product viscosity curve
+* Project 1: Understading the raw material and production process effects in the product characteristics
 * Project 2: Multi-Label Classification of Fashion Articles Images
 * Project 3: Sentiment Analysis on Tourist Accommodation Reviews
 * Project 4: Wine Quality Predictor
@@ -22,7 +22,7 @@ I am a Data Scientist with AI specialisation. I am currently working on my final
 * Project 6: Blockchain Development
 * Project 7: Influence Of Video Conferences
 
-## Project 1: Understading the raw material and production process effects in the product viscosity curve
+## Project 1: Understading the raw material and production process effects in the product characteristics.
 ### Solving a real business problem
 * Created a model which was composed of two different models to understand the relationship between the raw materials properties and the production process with the product characteristics. 
 * The company was having high defect rates which make her loose money.
