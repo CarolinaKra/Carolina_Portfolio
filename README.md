@@ -9,6 +9,7 @@ I am a Data Scientist with AI specialisation. I am currently working on my final
 *  +9 years experience in chemical industries, mainly within the Renewable Energy sector.
 *  +6 years UK-based professional. 
 *  Awards: 
+    *  My Data Science project I carried out on my last job was selected to be presented at an internal science conference, which I presented in June 2021  
     *  Scholarship "Green Campus" for my BSc Final Project in biodiesel production from waste. 
     *  National Finalist in Mathematical Olympiads in Argentina.
 
