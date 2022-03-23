@@ -59,7 +59,7 @@ _The dataset contained low-quality images (80x60 pixels) to speed up the model l
 
 ## [Project 3: Sentiment Analysis on Tourist Accommodation Reviews](https://github.com/CarolinaKra/SentimentAnalysisHotelReviews)
 ### My Natural Language Processing Project
-* Developed a model that can predict the sentiment of a textual Tourist Accommodation Review.
+* Developed a model that can predict the sentiment of textual Tourist Accommodation Reviews.
 * Showed the keywords that are used in negative and positive reviews.
 * Developed different pre-processing strategies using NLP tools. 
 * Applied different machine learning models: Naive Bayes, Decision Trees and SVM.
