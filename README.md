@@ -15,7 +15,7 @@ I am a Data Scientist with AI specialisation. I am currently working on my final
 
 # My Projects:
 ## Table of Contents:
-* Project 1: Statistical and Rheological Analysis to improve the Product Quality
+* Project 1: Statistical and Rheological Analysis to Improve the Product Quality
 * Project 2: Multi-Label Classification of Fashion Articles Images
 * Project 3: Sentiment Analysis on Tourist Accommodation Reviews
 * Project 4: Wine Quality Predictor
@@ -24,7 +24,7 @@ I am a Data Scientist with AI specialisation. I am currently working on my final
 * Project 7: Influence Of Video Conferences
 * Project 8: My Own Implementation of K-Nearest Neighbours
 
-## Project 1: Statistical and Rheological Analysis to improve the Product Quality
+## Project 1: Statistical and Rheological Analysis to Improve the Product Quality
 * Created a model which was composed of two different models to understand the relationship between the raw materials properties and the production process with the product characteristics to improve the final product quality
 * The company was having high defect rates which make her lose money.
 * With a new rheological analysis method, I demonstrated the link between the intermediate product characteristics with the defect rates in the final product.
