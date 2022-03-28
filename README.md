@@ -22,6 +22,7 @@ I am a Data Scientist with AI specialisation. I am currently working on my final
 * Project 5: Life-Saving Decision Support System
 * Project 6: Blockchain Development
 * Project 7: Influence Of Video Conferences
+* Project 8: My Own Implementation of K-Nearest Neighbours
 
 ## Project 1: Statistical and Rheological Analysis to improve the Product Quality
 * Created a model which was composed of two different models to understand the relationship between the raw materials properties and the production process with the product characteristics to improve the final product quality
@@ -121,4 +122,14 @@ _Graphical representation of the bayesian network I created for the DSS_
 
 _Example of a visualisation within the project which shows how much Video Conferencing helped the population cope with social distancing during the pandemic_
 
+## [Project 8: My Own Implementation of K-Nearest Neighbours](https://github.com/CarolinaKra/K-NNmyOwnImplementation)
+* Developed my own K-NN using only numpy and pandas for the classification task of the Iris dataset, achieving an accuracy of 96.67% using k=10 and euclidean distance.
+* Created a visualisation for Exploratory Data Analysis
+* Created my own function for K-NN
+* created my own evaluation functions for accuracy calculation and confusion matrix creation
+* Created my own function for Nested k-Fold Cross-validation.
+* Trained and tested the implementation using the Iris dataset and the same dataset with the addition of random noise.
+* The first implementation of K-NN with k=10 and euclidean distance achieved an accuracy of 96.67%
+* The Nested Cross-validation achieved an accuracy of 96.00 ± 3.27%
 
+![confusionMatrix](https://github.com/CarolinaKra/Carolina_Portfolio/blob/main/docs/assets/ConfMatrix.png)
