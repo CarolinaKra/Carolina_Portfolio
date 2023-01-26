@@ -1,7 +1,7 @@
 
 # About me:
 My name is Carolina Krawczyk.
-I am a Data Scientist with AI specialisation.  I have a MSc in Data Science and AI with Distinction from the [University of London.](https://london.ac.uk/msc-data-science-and-artificial-intelligence-structure). I have a strong interest in AI, Neural Networks, Machine Learning and Blockchain.
+I am a Data Scientist with AI specialisation.  I have a MSc in Data Science and AI with Distinction from the [University of London](https://london.ac.uk/msc-data-science-and-artificial-intelligence-structure) I have a strong interest in AI, Neural Networks, Machine Learning and Blockchain.
 
 * Strong analytical and quantitative background.
 * Originally from Argentina, academically educated in Israel and in the UK.
