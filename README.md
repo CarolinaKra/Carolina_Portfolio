@@ -6,7 +6,7 @@ I am a Data Scientist with AI specialisation.  I have a MSc in Data Science and 
 * Strong analytical and quantitative background.
 * Originally from Argentina, academically educated in Israel and in the UK.
 * Degrees: MSc Data Science and AI with distinction, BSc. Biotechnology Engineering.
-* +6 months experience as Data Scientist in a software company 
+*  +1 years experience as a Data Scientist in a software company, within the Insure-tech sector. 
 *  +9 years experience in chemical industries, mainly within the Renewable Energy sector.
 *  +6 years UK-based professional. 
 *  Awards: 
